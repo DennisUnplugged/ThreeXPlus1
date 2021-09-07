@@ -9,7 +9,6 @@ public class Start {
         Scanner scanner = new Scanner(System.in);
 
         System.out.print("Enter seed: ");
-
         try {
             float seed = scanner.nextFloat();
             new ThreeXPlus1(seed);

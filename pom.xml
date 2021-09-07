@@ -20,7 +20,7 @@
                         </transformer>
                     </transformers>
                     <createDependencyReducedPom>false</createDependencyReducedPom>
-                    <outputFile>C:\Users\Dennis Gyftakis\Desktop\ThreeXPlus1\ThreeXPlus1.jar</outputFile>
+                    <outputFile>C:\Users\Dennis Gyftakis\Desktop\ThreeXPlus1.jar</outputFile>
                 </configuration>
                 <executions>
                     <execution>

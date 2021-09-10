@@ -13,7 +13,6 @@ public class ThreeXPlus1 {
         this.seed = seed;
         this.math = new MathUtils();
 
-
         start();
     }
 
